@@ -11,7 +11,7 @@ This dashboard provides insights into employee salary distribution by department
 - Geographic salary map
 
 ## Tools Used
-- Power BI / Tableau
+- Tableau
 - Structured salary dataset
 
 ## Purpose
